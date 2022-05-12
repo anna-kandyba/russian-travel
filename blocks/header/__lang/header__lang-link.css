@@ -1,0 +1,15 @@
+.header__lang-link {
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 0.5rem;
+}
+
+.header__lang-link:last-of-type {
+    margin-left: 1rem;
+}

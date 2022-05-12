@@ -1,0 +1,11 @@
+/* Normalize */
+@import url(./normalize.css);
+/* Fonts */
+@import url(./font.css);
+/* Page */
+@import url(../blocks/page/page.css);
+/* Header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__lang/header__lang-link.css);
+@import url(../blocks/header/__lang/header__lang-link_active.css);
