@@ -8,8 +8,16 @@
     text-decoration: none;
     display: inline-block;
     margin-bottom: 0.5rem;
+
 }
 
 .header__lang-link:last-of-type {
     margin-left: 1rem;
+}
+
+@media (min-width: 768px) {
+    .header__lang-link {
+        font-size: 24px;
+        line-height: 28px;
+    }
 }
