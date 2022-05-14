@@ -1,0 +1,14 @@
+.intro__item {
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+    text-align: left;
+    color: #FFFFFF;
+
+
+}
+
+.intro__item--number {
+    font-weight: 400;
+}

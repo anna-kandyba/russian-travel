@@ -1,0 +1,23 @@
+.intro {
+    margin: 64px 16px;
+
+}
+
+@media (min-width: 768px) {
+    .intro {
+        margin: 24px 88px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .intro {
+        margin: 92px auto 92px 48px;
+        max-width: 690px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .intro {
+        margin: 92px auto 92px 148px;
+    }
+}
