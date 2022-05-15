@@ -1,0 +1,12 @@
+.footer__nav {
+    display: flex;
+    flex-direction: column;
+    row-gap: 32px;
+}
+
+@media (min-width: 768px) {
+    .footer__nav {
+        flex-direction: row;
+        column-gap: 18px;
+    }
+}

@@ -11,7 +11,7 @@
 
 @media (min-width: 768px) {
     .place__paragraph {
-        margin: 0 0 25px 0;
+        margin: 0;
         line-height: 26.08px
     }
 }

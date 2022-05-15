@@ -5,8 +5,8 @@
     line-height: 18px;
     text-align: left;
     color: #FFFFFF;
-
-
+    margin: 0;
+    padding: 0;
 }
 
 .intro__item--number {

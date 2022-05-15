@@ -1,3 +1,11 @@
 .place__paragraphs {
     grid-area: paragraphs;
 }
+
+@media (min-width: 768px) {
+    .place__paragraphs {
+        display: flex;
+        flex-direction: column;
+        row-gap: 25px;
+    }
+}

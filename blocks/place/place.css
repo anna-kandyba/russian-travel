@@ -1,7 +1,6 @@
 .place {
     max-width: 100vw;
     margin-bottom: 50px;
-
 }
 
 @media (min-width: 768px) {
@@ -13,6 +12,7 @@
     "title website"
     "image paragraphs";
         grid-template-columns:340px 1fr;
+        margin-bottom: 73px;
     }
 }
 
