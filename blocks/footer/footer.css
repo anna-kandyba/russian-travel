@@ -1,5 +1,5 @@
 .footer {
-    margin: 64px 16px 24px 16px;
+
     display: flex;
     flex-direction: column;
 }
@@ -9,13 +9,7 @@
         flex-direction: row;
         justify-content: space-between;
         align-items: flex-end;
-        margin: 90px 24px 24px;
+
     }
 }
 
-@media (min-width: 1024px) {
-    .footer {
-        margin: 92px 48px 24px 48px;
-    }
-
-}

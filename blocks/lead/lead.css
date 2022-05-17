@@ -1,26 +1,5 @@
 .lead {
-    padding: 0 2px;
     max-width: 100vw;
 
 }
 
-@media (min-width: 768px) {
-    .lead {
-        padding: 0;
-
-    }
-}
-
-@media (min-width: 1024px) {
-    .lead {
-        margin: 0 48px;
-
-    }
-}
-
-@media (min-width: 1280px) {
-    .lead {
-        margin: 0 148px;
-
-    }
-}

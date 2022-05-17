@@ -1,5 +1,5 @@
 .cover {
-    max-width: calc(100vw - 32px);
+
     z-index: 1;
     background-image: url("../../images/cover-trains.jpg");
     background-size: cover;
@@ -17,7 +17,7 @@
 @media (min-width: 768px) {
     .cover {
         padding: 115px 104px;
-        max-width: calc(100vw - 32px);
+       
     }
 }
 

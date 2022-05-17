@@ -1,0 +1,20 @@
+.page__cover {
+    max-width: calc(100vw - 32px);
+
+}
+
+
+@media (min-width: 768px) {
+    .page__cover {
+
+        max-width: calc(100vw - 32px);
+    }
+}
+
+
+@media (min-width: 1280px) {
+    .page__cover {
+        margin: 92px 48px;
+
+    }
+}
